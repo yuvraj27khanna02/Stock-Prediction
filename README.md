@@ -14,4 +14,4 @@ Run StockModel.py to run the program.  The verbose of training the model can be 
 This program is a Work In Progress and all feedback on it is appreciated.
 
 ## If you cannot run this program on your device
-My notebook on research collab is https://colab.research.google.com/drive/1ZW0_uXjIYhQvHmQG8jXKTTa7QRFQWMe2?usp=sharing .  Run the first code cell to run the program.  Feel free to ;eave a comment.
+My notebook on research collab is https://colab.research.google.com/drive/1ZW0_uXjIYhQvHmQG8jXKTTa7QRFQWMe2?usp=sharing .  Run the first code cell to run the program.  Feel free to leave a comment.
